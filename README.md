@@ -21,7 +21,7 @@ If you are adding this library to an Android Application or Library:
 
 ## Installation<a id="installation"></a>
 <div align="center">
-  <a href="https://konfigthis.com/sdk-sign-up?company=WhatsApp&serviceName=Business&language=Java">
+  <a href="https://konfigthis.com/sdk-sign-up?company=WhatsApp&%20serviceName=Business%20&language=Java">
     <img src="https://raw.githubusercontent.com/konfig-dev/brand-assets/HEAD/cta-images/java-cta.png" width="70%">
   </a>
 </div>
